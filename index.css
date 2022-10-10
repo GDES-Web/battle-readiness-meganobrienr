@@ -1,0 +1,49 @@
+
+.logo{
+display: flex;
+background-color:grey;
+height: 150px;
+margin: 4px;
+width: 100%;
+}
+.areaspace{
+    display: flex;
+    flex-direction: column;
+    width: 75%;
+
+}
+.witchmagic{
+display: flex;
+flex-direction: row;
+
+
+}
+.header{
+    display: flex;
+    background-color:grey;
+    height: 150px;
+    margin: 4px;
+
+}
+.sidebar{
+    display: flex;
+    width: 35% ;
+    background-color: bisque;
+}
+
+.bodyarea{
+    display: flex;
+    background-color:grey;
+    height: 300px;
+  
+    margin: 4px;
+}
+
+.footer{
+    display: flex;
+    background-color:grey;
+    height: 150px;
+    margin: 4px;
+    width: 100%;
+    
+}

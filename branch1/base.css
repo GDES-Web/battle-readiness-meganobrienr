@@ -1,0 +1,71 @@
+body{
+    background-color:aliceblue;
+
+    color: black;
+}
+.logo{
+    height: 100px;
+    width: 75%;
+    color: black;
+    background-color: grey;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    left: 0px;
+    margin: auto;
+    display: flex;
+}
+nav{
+    height: 50px;
+    width: 76% ;
+    background-color: grey;
+    color: black;
+    margin: auto;
+    text-align: center;
+    top: 98px;
+    position: relative;
+    display: flex;
+}
+.header-banner{
+    height: 150px;
+    width: 76%;
+    color: black;
+    background-color: grey;
+    margin: auto;
+    position: relative;
+    top: 105px;
+    display: flex;
+}
+.column1{
+    justify-content: left;
+    position: relative;
+    
+}
+#sidebar{
+    background-color: grey;
+    height: 450px;
+    width: 200px;
+    color: black;
+    top: 117px;
+    position: relative;
+    left: -381px;
+    margin: auto;
+}
+#body{
+    background-color: grey;
+    height: 450px;
+    width: 700px;
+    color: black;
+    top: -333px;
+    position: relative;
+    margin: auto;
+    left: 130px;
+}
+footer{
+    background-color: grey;
+    height: 50px;
+    width: 76%;
+    position: relative;
+    top: -314px;
+    margin: auto;
+}
